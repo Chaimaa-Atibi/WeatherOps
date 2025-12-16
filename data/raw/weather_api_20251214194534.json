@@ -1,0 +1,26 @@
+[
+    {
+        "city": "Rabat",
+        "temp_c": 20.1,
+        "humidity": 75,
+        "wind_speed": 5.5,
+        "date": "2025-12-14 12:00:00",
+        "ingestion_timestamp": "2025-12-14T19:45:34.807595Z"
+    },
+    {
+        "city": "Paris",
+        "temp_c": 6.3,
+        "humidity": 88,
+        "wind_speed": 10.2,
+        "date": "2025-12-14 13:00:00",
+        "ingestion_timestamp": "2025-12-14T19:45:34.807595Z"
+    },
+    {
+        "city": "Casablanca",
+        "temp_c": 18.0,
+        "humidity": 70,
+        "wind_speed": 4.0,
+        "date": "2025-12-14 14:00:00",
+        "ingestion_timestamp": "2025-12-14T19:45:34.807595Z"
+    }
+]

@@ -1,0 +1,3 @@
+pandas
+requests  # Pour l'appel d'API 
+apache-airflow # Pour l'étape d'orchestration
